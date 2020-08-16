@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="700" height="400" />
+<img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="790" height="400" />
 .
