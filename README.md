@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Tala 👋
+- 🌱 I’m currently studying software engineering at The Technical University of Denmark 
+- 👯 I’m looking for a company to collaborate with for bachelor project 
 
 <!--
 **talaaz/talaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
