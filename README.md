@@ -1,6 +1,5 @@
 ### Hi there, I'm Tala 👋
-- 🌱 I’m currently studying software engineering at The Technical University of Denmark 
-- 👯 I’m looking for a company to collaborate with for bachelor project 
+- 🌱 I’m currently studying software engineering at The Technical University of Denmark 6.semester
 - ⚡ Fun fact: I love cats! 
 
 <!--
