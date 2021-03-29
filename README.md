@@ -1,5 +1,6 @@
 ### Hi there, I'm Tala 👋
-- 🌱 I’m currently studying software engineering at The Technical University of Denmark 6.semester
+- I'm 23 years old, Syrian girl, living in Denmarak
+- 🌱 I’m software engineering student at The Technical University of Denmark 6.semester
 - ⚡ Fun fact: I love cats! 
 
 <!--
