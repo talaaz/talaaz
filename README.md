@@ -1,7 +1,7 @@
 ### Hi there, I'm Tala 👋
-- I'm 23 years old, Syrian girl, living in Denmarak
-- 🌱 I’m software engineering student at The Technical University of Denmark 6.semester
-- ⚡ Fun fact: I love cats! 
+- I'm 24 years old, Syrian girl, living in Denmarak
+- 🌱 I’m a master's student in Human-centered AI at the Technical University of Denmark
+- ⚡ Fun fact: I have a cat and his name is Jac/Can! 
 
 <!--
 **talaaz/talaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
